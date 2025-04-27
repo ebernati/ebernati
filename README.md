@@ -1,10 +1,7 @@
 Add Ebernati token metadata”
 
 ---
-# Please note: This repository is being rebuilt to accept the new volume of token additions and modifications. PR merges will be delayed.
 ---
-
-## I agree to not ping _anybody_ on Discord/Twitter/email about this pull request. Instead I will inquire by posting a new comment in the pull request if needed.
 
 ---
 
